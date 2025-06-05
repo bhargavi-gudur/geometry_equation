@@ -11,6 +11,7 @@ This project implements basic polygon handling in C++, allowing you to define a 
 ## How to Build
 
 1. **Clone the repository**:
+
     ```bash
     git clone <repository-url>
     cd <repository-name>
@@ -18,11 +19,13 @@ This project implements basic polygon handling in C++, allowing you to define a 
 
 2. **Compile the code**:
     You can use `g++` or any C++ compiler to compile the code. For example:
+
     ```bash
     g++ main.cpp geometry.cpp -o polygon_checker
     ```
 
 3. **Run the program**:
+
     ```bash
     ./polygon_checker
     ```

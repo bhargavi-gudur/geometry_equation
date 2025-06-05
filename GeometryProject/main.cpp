@@ -1,3 +1,13 @@
+/**
+ * @file main.cpp
+ * @author GandlaBhargavi
+ * @brief Main file for the Geometry Project 
+ * @version 0.1
+ * @date 2025-06-04
+ * 
+ * @copyright Copyright (c) 2025
+ * 
+ */
 #include <iostream>
 #include "geometry.hpp"
 

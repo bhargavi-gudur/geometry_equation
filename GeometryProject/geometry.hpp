@@ -1,17 +1,15 @@
 /**
  * @file geometry.hpp
- * @author gandla bhargavi
- * @brief 
+ * @author GandlaBhargavi 
+ * @brief  Header file for Geometry Project
+ * @details This file contains the declaration of the Polygon class, which provides methods to calculate the distance from a point to the polygon, check if a point is on the boundary, and check if a point is inside the polygon.
  * @version 0.1
- * @date 2024-09-29
- * 
- * @copyright Copyright (c) 2024
- * 
+ * @date 2025-06-04 
  */
 #ifndef GEOMETRY_HPP
 #define GEOMETRY_HPP
 #include <vector>
-#include<utility>
+#include <utility>
 
 namespace Geometry {
     class Polygon {

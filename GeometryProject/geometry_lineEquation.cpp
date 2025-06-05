@@ -1,7 +1,22 @@
+/**
+ * @file geometry_lineEquation.cpp
+ * @author GandlaBhargavi
+ * @brief Implementation of line equation functions for the Polygon class
+ * @details This file contains the implementation of the Polygon class methods, which include calculating the distance from a point to the polygon, checking if a point is on the boundary, and checking if a point is inside the polygon.
+ * @version 0.1
+ * @date 2025-06-04
+ * 
+ * @copyright Copyright (c) 2025
+ * 
+ */
 #include "geometry.hpp"
 #include <cmath>
 using namespace std;
 
+/**
+ * @brief   Geometry namespace contains classes and functions related to geometric calculations.
+ * 
+ */
 namespace Geometry {
     // Constructor to initialize the polygon with n sides
     Polygon::Polygon(const std::vector<std::pair<double, double>>& polygonPoints)
